@@ -80,23 +80,10 @@ I enjoy solving security challenges, building practical cybersecurity tools, and
 
 ---
 
-## 📊 GitHub Stats
-
-> *(Add these after creating your profile README.)*
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techviizard&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techviizard&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=techviizard)
-```
-
----
 
 ## 🧩 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/techviizard?theme=dark&font=Karma)
+
 
 ---
 
