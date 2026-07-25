@@ -1,16 +1,109 @@
-## Hi there 👋
+# Hi there 👋, I'm Vidhi Inchure
 
-<!--
-**techviizard/techviizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Electronics & Telecommunication Engineering with Cybersecurity Honors Student (SPPU)
+🔐 Aspiring Cybersecurity Engineer | Ethical Hacker | AI Security Enthusiast
+💻 Passionate about Offensive Security, AI Security, Detection Engineering, Digital Forensics & Secure Software Development
+🌱 Currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Certified Ethical Hacker (CEH v13)
+* Detection Engineering
+* DevSecOps
+* Secure Code Development
+* AI Security & LLM Security
+
+I enjoy solving security challenges, building practical cybersecurity tools, and exploring how AI can both strengthen and threaten modern security systems.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* C
+* C++
+* Java
+* JavaScript
+* MySQL
+
+### Cybersecurity
+
+* Kali Linux
+* OWASP Top 10
+* Web Application Security
+* Digital Forensics
+* OSINT
+* Network Security
+
+### AI & Development
+
+* React
+* Node.js
+* Express.js
+* Firebase
+* Google AI Studio
+* Gemini API
+* Tailwind CSS
+* Git & GitHub
+
+### Databases
+
+* MySQL
+
+---
+
+## 🚩 Current Focus
+
+* 🔴 AI Security Research
+* 🛡️ Enterprise AI Security
+* 🔍 Vulnerability Assessment & Penetration Testing
+* ⚙️ Detection Engineering
+* 🤖 AI-powered Security Automation
+* 📈 LeetCode & DSA (Python)
+* 🏁 Capture The Flag (CTFs)
+
+---
+
+## 🏆 Certifications
+
+* Certified Ethical Hacker (CEH) *(In Progress)*
+* Windows Digital Forensics  *(In Progress)*
+* DPDPA 2023  *(In Progress)*
+* Prompt Engineering 
+* Deep Learning
+* Agile Scrum
+* Arduino & C Training
+* Google AI Learning
+* Multiple Cybersecurity Virtual Experiences
+
+---
+
+## 📊 GitHub Stats
+
+> *(Add these after creating your profile README.)*
+
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techviizard&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techviizard&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=techviizard)
+```
+
+---
+
+## 🧩 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/techviizard?theme=dark&font=Karma)
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/vidhiinchure
+
+---
+
+> *"Security isn't just about defending systems—it's about continuously learning how attackers think and building resilient solutions for tomorrow."*
