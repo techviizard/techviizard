@@ -83,7 +83,7 @@ I enjoy solving security challenges, building practical cybersecurity tools, and
 
 ## 🧩 LeetCode
 
-
+![LeetCode 50 Days Badge](assets/50.gif)
 
 ---
 
