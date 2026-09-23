@@ -22,10 +22,6 @@ I enjoy solving security challenges, building practical cybersecurity tools, and
 ### Languages
 
 * Python
-* C
-* C++
-* Java
-* JavaScript
 * MySQL
 
 ### Cybersecurity
@@ -36,17 +32,6 @@ I enjoy solving security challenges, building practical cybersecurity tools, and
 * Digital Forensics
 * OSINT
 * Network Security
-
-### AI & Development
-
-* React
-* Node.js
-* Express.js
-* Firebase
-* Google AI Studio
-* Gemini API
-* Tailwind CSS
-* Git & GitHub
 
 ### Databases
 
@@ -80,12 +65,6 @@ I enjoy solving security challenges, building practical cybersecurity tools, and
 
 ---
 
-
-## 🧩 LeetCode
-
-![LeetCode 50 Days Badge](assets/50.gif)
-
----
 
 ## 🤝 Let's Connect
 
