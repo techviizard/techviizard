@@ -1,207 +1,211 @@
 
-<!-- ═══════════════════ HEADER ═══════════════════ -->
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:07111E,50:0D9488,100:07111E&height=180&section=header&text=VIDHI%20INCHURE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&stroke=0D9488&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050B14,45:0B3B3B,100:050B14&height=190&section=header&text=VIDHI%20INCHURE&fontSize=46&fontColor=E2FFFA&animation=fadeIn&stroke=14B8A6&strokeWidth=1" width="100%"/>
 
-<a href="https://github.com/techviizard">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=5EEAD4&center=true&vCenter=true&width=650&lines=Cybersecurity+%7C+AI+Security+%7C+Engineering;Exploring+%E2%80%A2+Building+%E2%80%A2+Securing;Curiosity+is+my+favorite+exploit." alt="Typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=700&lines=CYBERSECURITY+%7C+AI+SECURITY;OFFENSIVE+%26+DEFENSIVE+SECURITY;INVESTIGATE.+ANALYSE.+SECURE.;Always+learning.+Always+testing." alt="Typing SVG"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhiinchure/)
-[![Credly](https://img.shields.io/badge/Credly-Credentials-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/vidhiinchure/badges/credly)
-[![GitHub](https://img.shields.io/badge/GitHub-techviizard-181717?style=flat&logo=github&logoColor=white)](https://github.com/techviizard)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhiinchure/)
+[![Credly](https://img.shields.io/badge/CREDLY-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/vidhiinchure/badges/credly)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/techviizard)
 
 </div>
 
 ---
 
-<!-- ═══════════════════ NAVIGATION ═══════════════════ -->
+<!-- ═══════════════════════ TERMINAL ═══════════════════════ -->
 
-<div align="center">
-
-[ `ABOUT` ](#-about-me) ·
-[ `ARSENAL` ](#-tech-arsenal) ·
-[ `PROJECTS` ](#-project-explorer) ·
-[ `LEARNING` ](#-currently-exploring) ·
-[ `CERTIFICATIONS` ](#-certifications--credentials) ·
-[ `CONNECT` ](#-lets-connect)
-
-</div>
-
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
-
-## `whoami` — About Me
+## `01 / IDENTIFICATION`
 
 ```bash
-vidhi@techviizard:~$ whoami
+┌──(vidhi㉿techviizard)-[~]
+└─$ whoami
+
+Cybersecurity Undergraduate | E&TC Engineering
+Specialization : Cybersecurity Honours
+Interests      : AI Security, Offensive Security,
+                 Digital Forensics, Security Operations
+Affiliation    : ISC2 Pune Chapter
+Status         : Learning | Experimenting | Building
 ```
 
-🎓 Final-year B.E. Electronics & Telecommunication Engineering student with Cybersecurity Honours.
+I'm a final-year Electronics & Telecommunication Engineering student pursuing Cybersecurity Honours, interested in understanding how systems fail, how threats evolve, and how technology can be made more resilient.
 
-🔐 Interested in cybersecurity, AI security, digital forensics, security operations and emerging technologies.
+My interests sit at the intersection of cybersecurity and emerging technologies, particularly AI security, vulnerability assessment, digital investigations, and security operations.
 
-🛠️ Learning by building, experimenting, solving challenges and collaborating on technical initiatives.
+Currently contributing as a **Student Member and Media & Communications Volunteer at the ISC2 Pune Chapter**, alongside student leadership and placement coordination responsibilities.
 
-🤝 Student Member & Media and Communications Volunteer at the **ISC2 Pune Chapter**.
+---
 
-📌 Student leadership and placement coordination experience.
-
-💃 Bharatanatyam enthusiast outside the world of technology.
-
-<details>
-<summary>📂 More about me</summary>
-
-<br/>
-
-I enjoy exploring how technologies work, how they can be exploited, and how they can be designed to become more secure and resilient.
-
-My interests span offensive security, AI-powered systems, digital investigations, security automation and the evolving intersection of cybersecurity and artificial intelligence.
-
-</details>
-
-<!-- ═══════════════════ ARSENAL ═══════════════════ -->
-
-## `ls ./arsenal` — Tech Arsenal
+## `02 / ATTACK SURFACE` — Technical Arsenal
 
 <div align="center">
 
-### Languages
+**PROGRAMMING & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=python,js,mysql" />
+<img src="https://skillicons.dev/icons?i=python,js,mysql,c" />
 
-### Security & Operating Systems
+<br/><br/>
+
+**OPERATING SYSTEMS & ENVIRONMENTS**
 
 <img src="https://skillicons.dev/icons?i=kali,linux,windows" />
 
-### Development & Tools
+<br/><br/>
+
+**DEVELOPMENT & ENGINEERING**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,react,firebase" />
 
-### AI & Machine Learning
+<br/><br/>
+
+**AI & MACHINE LEARNING**
 
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 
 </div>
 
 <details>
-<summary>🔍 Security domains I'm working with</summary>
+<summary><b>↳ Explore security domains</b></summary>
 
-<br/>
-
-- Web Application Security
-- OWASP Top 10
-- Network Security
-- OSINT
-- Digital Forensics
-- Vulnerability Assessment
-- Ethical Hacking
-- Secure Coding
-- AI & LLM Security
-
-</details>
-
-<!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
-
-## `cat ./learning.log` — Currently Exploring
-
-| Domain | Focus |
+| Area | Technologies / Concepts |
 |---|---|
-| 🔴 AI Security | AI Security & LLM Security |
-| 🛡️ Enterprise Security | Security of AI-powered systems |
-| 🔍 Offensive Security | VAPT & Web Application Security |
-| ⚙️ Detection | Detection Engineering & Security Operations |
-| 🔐 Secure Development | Secure Coding & DevSecOps |
-| 📈 DSA | LeetCode & Python |
-| 🏁 Practice | CTFs & hands-on security labs |
+| Application Security | OWASP Top 10, Web Application Security |
+| Offensive Security | Ethical Hacking, VAPT |
+| Network Security | Network Fundamentals, Security Analysis |
+| Digital Investigations | Digital Forensics, OSINT |
+| Defensive Security | Security Operations, Detection Engineering |
+| Emerging Security | AI Security, LLM Security |
+| Secure Engineering | Secure Coding, DevSecOps |
 
-<!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
+</details>
 
-## `ls ./credentials` — Certifications & Credentials
+---
 
-<details>
-<summary>🏅 Professional Certifications</summary>
+## `03 / ACTIVE OPERATIONS` — Current Focus
 
-<br/>
+<details open>
+<summary><b>AI & LLM Security</b></summary>
 
-- Certified Ethical Hacker (CEH v13) 
-- Windows Digital Forensics
-- DPDPA 2023 — [ongoing]
+- Security risks in AI-powered applications
+- LLM vulnerabilities and threat landscapes
+- Exploring AI security and governance
 
 </details>
 
 <details>
-<summary>📚 Additional Training & Learning</summary>
+<summary><b>Offensive & Application Security</b></summary>
 
-<br/>
+- Vulnerability Assessment and Penetration Testing
+- Web application security
+- Hands-on ethical hacking labs
+
+</details>
+
+<details>
+<summary><b>Defensive Security & Engineering</b></summary>
+
+- Security monitoring and detection engineering
+- Security operations fundamentals
+- Secure development and DevSecOps
+
+</details>
+
+<details>
+<summary><b>Continuous Practice</b></summary>
+
+- Python and Data Structures & Algorithms
+- LeetCode problem-solving
+- Capture The Flag challenges
+- Practical security labs
+
+</details>
+
+---
+
+## `04 / CREDENTIALS` — Certifications & Training
+
+<details>
+<summary><b>Professional Certification & Domain Training</b></summary>
+
+- CEH v13
+- Windows Digital Forensics
+- DPDPA 2023 — Ongoing
+
+</details>
+
+<details>
+<summary><b>Additional Learning</b></summary>
 
 - Prompt Engineering
 - Deep Learning
 - Agile Scrum
-- Arduino & C Training
+- Arduino & C Programming
 - Google AI Learning
 - Cybersecurity Virtual Experiences
 
 </details>
 
-[View my Credly profile](https://www.credly.com/users/vidhiinchure/badges/credly)
-
-<!-- ═══════════════════ STATS ═══════════════════ -->
-
-## `git status` — GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=techviizard&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techviizard&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
-
-## `./connect.sh` — Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vidhiinchure/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.credly.com/users/vidhiinchure/badges/credly">
-<img src="https://img.shields.io/badge/Credly-View%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
-</a>
-
-<a href="https://github.com/techviizard">
-<img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Credly](https://img.shields.io/badge/VERIFY_CREDENTIALS-View_Credly_Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/vidhi-inchure/badges/credly)
 
 </div>
 
 ---
 
+## `05 / SYSTEM TELEMETRY` — GitHub Activity
+
 <div align="center">
 
-<details>
-<summary>🕵️ Curious enough to open this?</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=techviizard&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techviizard&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## `06 / ESTABLISH CONNECTION`
+
+<div align="center">
+
+Interested in cybersecurity, AI security, collaborative learning, and meaningful technical discussions.
 
 <br/>
 
-```text
-flag{curiosity_is_a_feature}
-```
+<a href="https://www.linkedin.com/in/vidhiinchure/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Every system has something more to explore.
+<a href="mailto:techviizard@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-444444?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<details>
+<summary><b>🔐 Restricted Area — Click to inspect</b></summary>
+
+```text
+ACCESS GRANTED
+
+flag{curiosity_is_a_feature}
+
+No system is beyond investigation.
+No skill is beyond learning.
+```
 
 </details>
 
 <br/>
 
-<sub>Exploring · Building · Securing</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,100:0D9488&height=65&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07111E,100:0D9488&height=70&section=footer" width="100%"/>
+<sub>SECURE BY DESIGN · CURIOUS BY DEFAULT</sub>
 
 </div>
